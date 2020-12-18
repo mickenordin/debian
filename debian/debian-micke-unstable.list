@@ -1,2 +1,2 @@
-deb http://repo.mic.ke/debian/ unstable main
-deb-src http://repo.mic.ke/debian/ unstable main
+deb https://repo.mic.ke/debian/ unstable main
+deb-src https://repo.mic.ke/debian/ unstable main
