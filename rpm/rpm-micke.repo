@@ -1,0 +1,3 @@
+[rpm-micke]
+name = Micke's RPM repo
+baseurl = https://repo.mic.ke/rpm/
