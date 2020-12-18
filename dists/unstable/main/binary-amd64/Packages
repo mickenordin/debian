@@ -1,0 +1,18 @@
+Package: wireguide
+Version: 0.2.1
+Architecture: all
+Essential: no
+Maintainer: Micke Nordin <mik@elnord.in>
+Installed-Size: 47
+Depends: gir1.2-nm-1.0, libnm0, network-manager, python3-wxgtk4.0, wireguard
+Recommends: resolvconf
+Homepage: https://github.com/mickenordin/wireguide
+Priority: optional
+Section: net
+Filename: pool/main/w/wireguide/wireguide_0.2.1_all.deb
+Size: 21224
+SHA256: 1cb81e579f7e2717c5b8901dbc392377cabbdebdeb36d158081b7796a93cbfac
+SHA1: 99d70c0125768481faccbb31cfb9f5433a3613f9
+MD5sum: 5f0a867b3de5dcf917037492cc4275d1
+Description: WireGUIde is a graphical user interface for WireGuard
+
