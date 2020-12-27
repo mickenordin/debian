@@ -4,42 +4,42 @@ Hash: SHA512
 Origin: repo.mic.ke
 Label: repo.mic.ke
 Codename: unstable
-Date: Fri, 18 Dec 2020 08:56:44 UTC
+Date: Sun, 27 Dec 2020 13:33:17 UTC
 Architectures: amd64
 Components: main
 Description: Micke's debian packages
 MD5Sum:
- 57662bb3c788cb0836180ec71ce5ed3e 606 main/binary-amd64/Packages
- 421c1ff9d191681db5a286a89f8acd37 444 main/binary-amd64/Packages.gz
+ a1f4f5500902c99b3f2d27e03f8d580f 1140 main/binary-amd64/Packages
+ 18cea5cf5dd106eadd590ddfb274e66a 634 main/binary-amd64/Packages.gz
  016d7f1666eb3d9cf90a9e24699afec1 146 main/binary-amd64/Release
- 17e0ffe382926f48e7e9be33943852fd 836 main/source/Sources
- f79234e4ebf67b82370334113ea03ae0 501 main/source/Sources.gz
+ b766c9b9ea9cd4127d59e08bd0ef0bc3 1681 main/source/Sources
+ d32f4bdb30a5c9d48dd7ac079f8bfa00 764 main/source/Sources.gz
  de05b53ae67c91eef17623c9e04b76be 113 main/source/Release
 SHA1:
- 774576aa6001813234ab6654da58dcd0f5ad050d 606 main/binary-amd64/Packages
- f45bd959d01d8af410ef91c56751e5b6a5fd3b93 444 main/binary-amd64/Packages.gz
+ 2edfb8cb91b091bdaf93499ef527d30be9004bae 1140 main/binary-amd64/Packages
+ ac05e8fc38471c4818159c24f925a33784a7887c 634 main/binary-amd64/Packages.gz
  396ef07e9cd8cd199b4df66dc25518cbc97bc3d0 146 main/binary-amd64/Release
- a917dae18d20f1f09906d18866cf9df880305d1b 836 main/source/Sources
- 9fe750df11222928569d4cc7b04031cdde068831 501 main/source/Sources.gz
+ 0ac39dad99cdd3f4fc82cea360c1af0e18e22e1a 1681 main/source/Sources
+ 649da501767a476860b8d707fdc579fcd736d755 764 main/source/Sources.gz
  cfd331f92a8ea3540545ea472892a09d3b9ca1fa 113 main/source/Release
 SHA256:
- a51c3d823e693feab091b9aef389a0c3a974200c68b5111df13ea8066a759676 606 main/binary-amd64/Packages
- 570cd047bce832166e7b2261e40b448c1ecf2ed5adf96597558add20942d0f9e 444 main/binary-amd64/Packages.gz
+ d11914b2b52fc6c85a15d23fa5d2c6cdcb7bcdee220c88824e7f086dcb8b403c 1140 main/binary-amd64/Packages
+ a9819f1cdcb011b895282a23fbd23dc6a890e1cc249df166ddd0f70354b82ec4 634 main/binary-amd64/Packages.gz
  b1c0f5cc555bd488ecb92ecee1ce266e38201b09c1fa0a96e00a4d8372ebd8b4 146 main/binary-amd64/Release
- fc5535d13f74093ac4d01512716369a8170425ad398e17bce543f638a4a7c856 836 main/source/Sources
- 6861e92f77ee2a672864ec4fd6cf603a32c9c499ea5b3d251a29dc26f1e8d1dc 501 main/source/Sources.gz
+ a01258ddb4f4b6b941f6a17271532676bc1ee4b50c14b0bd7c5d6108d7d019e2 1681 main/source/Sources
+ 50780e6e5c3e3544ddb92835a2371c99807240e9e19ef44c9f982e81ec31d183 764 main/source/Sources.gz
  4d5419425c250d2ac738eab0b35148fab09fceea6f148ac9847f9974d45902ea 113 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEydotQ6fu5QGnGlWXAUsnPWFL6HcFAl/cbswACgkQAUsnPWFL
-6HdGhAv/bUeX1lm4BeRuIwbl37rmtQvLHq84Fgx58DFskSwQ6tUV6ELr94rtl+88
-ApSwWQhdQw5cwXTtxLWtiD8WyVt/MUpcdun5ZZsk5dLjB5cRIBmCHrNJeGXDKLfK
-HUyI+80+Gs8e0qlqxkIRCVtEGhxMZ186qoCwi1UqOBa5aiFQUvjJk673hug8sz/b
-dOS84CAcwGdDZ9/6aDbnASBjt06uYflz0Y3jTsVPp+dfqysfpgwQUMaqpZu9Mf2u
-4gVS3xm9K/fHy7iW+WWPQSpfHqIKvMEbPOpYBUWm6DZSHxXr/2vgHwbmHspb8YHk
-sAxd8aG5QNqsqTljccRNAKnIu0W6ZZwAdFldnzsyZgK3P1Daii+pGH1s88HPLp3V
-JRzctF9TpvvkX+UMGTlV7A3SOYBR2i1+Q6/sbwJYcqiKRr30lGxHTQECd+qH3riP
-iK0ygn0O2UlPgdOfHGJAmkUGz7y+hIp6YeSklrXbYRK86rr5QcJeKkIofamfQ3oc
-z1Y+vVBn
-=YPL4
+iQGzBAEBCgAdFiEEydotQ6fu5QGnGlWXAUsnPWFL6HcFAl/ojR0ACgkQAUsnPWFL
+6Hf/tAv/b/AmbQwpXJg210YNGGQn3EKhVrqxwJIPc8LAraXhjMZR0Du85OdRwHNd
+DiyEK+3vZAHmozihmCyRRX4E0W8Qja3+XbaMSh68o4IG/C9HJW1Qz/Ed3JQdy3ns
+DdpeTDDFK0qaAsPnsw0ctzD4kM4tV1S16nGTxvsjpEDylmhXPyYFue6zRkFL1Ozx
+SKz2FAlel6og9Y9q0km8W5iF135BD187ZhqF8PEdSQBhrr9PsU6KQCo4WSx38K9c
+mWOUJibYS/D4wavnIoEYnGtb9DH8qkwM45suEjvdogCMj/sfNZBFC+6WNNE7Ltmd
+g+Xe4r4ygq7kqN3w+GocooRjTrkgFEbd1f3FBGszjyzv6+hJA1KC+Y9YmYgOcEao
+tcd7GMHLHdtEkD5OBP7VHOgL9MeOu36HXy9UiPoL9KC2EHti9Ugi9QsO0oFxVbKK
+RZ9GI3XtNKKjfO33B3amL3sCIjGNa8CMko1gXDbRqpPhLInSHv8ZDZk4jNHYzRmP
+gdJgFs7O
+=xCo4
 -----END PGP SIGNATURE-----
