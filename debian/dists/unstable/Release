@@ -1,28 +1,28 @@
 Origin: repo.mic.ke
 Label: repo.mic.ke
 Codename: unstable
-Date: Sun, 27 Dec 2020 13:33:17 UTC
+Date: Sun, 27 Dec 2020 15:21:26 UTC
 Architectures: amd64
 Components: main
 Description: Micke's debian packages
 MD5Sum:
- a1f4f5500902c99b3f2d27e03f8d580f 1140 main/binary-amd64/Packages
- 18cea5cf5dd106eadd590ddfb274e66a 634 main/binary-amd64/Packages.gz
+ ab9b1abde1644ac3277df35848ca5827 1140 main/binary-amd64/Packages
+ 7f1bfb8c32871aa6a7a523efaa4ef369 637 main/binary-amd64/Packages.gz
  016d7f1666eb3d9cf90a9e24699afec1 146 main/binary-amd64/Release
- b766c9b9ea9cd4127d59e08bd0ef0bc3 1681 main/source/Sources
- d32f4bdb30a5c9d48dd7ac079f8bfa00 764 main/source/Sources.gz
+ 93eac204e0bb88163d4900dbebc4baa7 1684 main/source/Sources
+ f34ab0e8adb413e1517e955bd1f4a90b 767 main/source/Sources.gz
  de05b53ae67c91eef17623c9e04b76be 113 main/source/Release
 SHA1:
- 2edfb8cb91b091bdaf93499ef527d30be9004bae 1140 main/binary-amd64/Packages
- ac05e8fc38471c4818159c24f925a33784a7887c 634 main/binary-amd64/Packages.gz
+ e52001ebd29938bc3b203e6423912b0b42b1a803 1140 main/binary-amd64/Packages
+ d7667bdad2b1a31756a5bc17037b8782f256f00b 637 main/binary-amd64/Packages.gz
  396ef07e9cd8cd199b4df66dc25518cbc97bc3d0 146 main/binary-amd64/Release
- 0ac39dad99cdd3f4fc82cea360c1af0e18e22e1a 1681 main/source/Sources
- 649da501767a476860b8d707fdc579fcd736d755 764 main/source/Sources.gz
+ 17dc8f511447ab62fc0305e27e1c6be0bc9aafea 1684 main/source/Sources
+ 9060703524178781b96d8aed71736f8884423907 767 main/source/Sources.gz
  cfd331f92a8ea3540545ea472892a09d3b9ca1fa 113 main/source/Release
 SHA256:
- d11914b2b52fc6c85a15d23fa5d2c6cdcb7bcdee220c88824e7f086dcb8b403c 1140 main/binary-amd64/Packages
- a9819f1cdcb011b895282a23fbd23dc6a890e1cc249df166ddd0f70354b82ec4 634 main/binary-amd64/Packages.gz
+ d6e8f8ca0ae2ae256f0c8fe5117a90f60d26f339a217bacb7ab7da7ba948b1db 1140 main/binary-amd64/Packages
+ fa7e8aa27e8ac99fb59c3a72afe6ac514fb9c90a10a2ee3f4c1a82fb5f403cf8 637 main/binary-amd64/Packages.gz
  b1c0f5cc555bd488ecb92ecee1ce266e38201b09c1fa0a96e00a4d8372ebd8b4 146 main/binary-amd64/Release
- a01258ddb4f4b6b941f6a17271532676bc1ee4b50c14b0bd7c5d6108d7d019e2 1681 main/source/Sources
- 50780e6e5c3e3544ddb92835a2371c99807240e9e19ef44c9f982e81ec31d183 764 main/source/Sources.gz
+ dd8a81755e1841382681dde09104334a4ff9ef61e5e958b091b95b50ab168e78 1684 main/source/Sources
+ 67aa701b3fbb66231d0e51d98d4a82004481289f6e265ad4b5d8476cc7196c26 767 main/source/Sources.gz
  4d5419425c250d2ac738eab0b35148fab09fceea6f148ac9847f9974d45902ea 113 main/source/Release
