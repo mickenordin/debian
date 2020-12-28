@@ -1,5 +1,5 @@
 Package: swayswitch
-Version: 0.0.3
+Version: 0.0.4
 Architecture: all
 Essential: no
 Maintainer: Micke Nordin <hej@mic.ke>
@@ -8,11 +8,11 @@ Depends: python3-wxgtk4.0, sway
 Homepage: https://github.com/mickenordin/swayswitch
 Priority: optional
 Section: utils
-Filename: pool/main/s/swayswitch/swayswitch_0.0.3_all.deb
-Size: 3756
-SHA256: 9ec83dd142d0cd09d368348457bc8f142a72dd49fa6adfbd474077caf90a8327
-SHA1: 14b77e301ff013297cbf0244e34178c9f94fdd43
-MD5sum: 97805bf9e48be0b211309ad8875635d5
+Filename: pool/main/s/swayswitch/swayswitch_0.0.4_all.deb
+Size: 3800
+SHA256: 681e31b1c202d97245774bfdbd1a165943b764b5b57095b415a79a3f29964c2e
+SHA1: dfefe61165652937fd29f012e58372aa4f70e8ac
+MD5sum: 25c98b2d87785d83e4b41c4f95e850e2
 Description: SwaySwitch is a simple window switcher for Sway
 
 Package: wireguide
