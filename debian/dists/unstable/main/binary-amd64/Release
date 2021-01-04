@@ -1,5 +1,5 @@
 Component: main
-Origin: mickenordin.github.io/debian
-Label: mickenordin.github.io/debian
+Origin: repo.mic.ke
+Label: repo.mic.ke
 Architecture: amd64
 Description: Micke's debian packages
