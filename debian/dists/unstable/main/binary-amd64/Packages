@@ -1,3 +1,21 @@
+Package: gmnd
+Version: 0.0.1
+Architecture: all
+Essential: no
+Maintainer: Micke Nordin <hej@mic.ke>
+Installed-Size: 38
+Depends: python3-yaml
+Homepage: https://github.com/mickenordin/gmnd
+Priority: optional
+Section: net
+Filename: pool/main/g/gmnd/gmnd_0.0.1_all.deb
+Size: 5380
+SHA256: 67247a032a1640eb1266fb0208776a721f9794122f3825ca7c0ee00f18768473
+SHA1: aefcf4a19f8f7ad6b1de4779a646c6e5f9785597
+MD5sum: cc915c824d1f518bf04b7e4fadab10e1
+Description: gMNd is a gemini server with support for serving static files,
+     or run cgi-scripts.
+
 Package: swayswitch
 Version: 0.1.0
 Architecture: all
