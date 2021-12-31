@@ -5,7 +5,7 @@ Origin: repo.mic.ke
 Label: repo.mic.ke
 Codename: unstable
 Date: Wed, 24 Feb 2021 12:35:55 UTC
-Architectures: amd64
+Architectures: amd64 arm64 any
 Components: main
 Description: Micke's debian packages
 MD5Sum:
