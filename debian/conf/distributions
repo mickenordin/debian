@@ -1,7 +1,7 @@
 Origin: repo.mic.ke
 Label: repo.mic.ke
 Codename: unstable
-Architectures: amd64 source
+Architectures: amd64 arm64 any source
 Components: main
 Description: Micke's debian packages
 SignWith: C9DA2D43A7EEE501A71A5597014B273D614BE877
