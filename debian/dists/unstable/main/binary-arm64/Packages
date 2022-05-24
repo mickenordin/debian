@@ -1,21 +1,3 @@
-Package: gmnd
-Version: 0.0.1
-Architecture: all
-Essential: no
-Maintainer: Micke Nordin <hej@mic.ke>
-Installed-Size: 38
-Depends: python3-yaml
-Homepage: https://github.com/mickenordin/gmnd
-Priority: optional
-Section: net
-Filename: pool/main/g/gmnd/gmnd_0.0.1_all.deb
-Size: 5380
-SHA256: 67247a032a1640eb1266fb0208776a721f9794122f3825ca7c0ee00f18768473
-SHA1: aefcf4a19f8f7ad6b1de4779a646c6e5f9785597
-MD5sum: cc915c824d1f518bf04b7e4fadab10e1
-Description: gMNd is a gemini server with support for serving static files,
-     or run cgi-scripts.
-
 Package: python3-tinge
 Source: tinge
 Version: 0.0.3-1
@@ -89,39 +71,4 @@ Description: Lightweight UPnP client library for Python.
  import upnpy
  .
  upnp = upnpy.UPnP()
-
-Package: swayswitch
-Version: 0.1.0
-Architecture: all
-Essential: no
-Maintainer: Micke Nordin <hej@mic.ke>
-Installed-Size: 26
-Depends: python3-cairosvg, python3-toml, python3-wxgtk4.0, sway
-Homepage: https://github.com/mickenordin/swayswitch
-Priority: optional
-Section: utils
-Filename: pool/main/s/swayswitch/swayswitch_0.1.0_all.deb
-Size: 5616
-SHA256: 6ba33a8391439c0bc9daa3b554902485a999236076ec26bdcfe8894d49ea2423
-SHA1: 6eb9f02140d768752646ad12dc043f474fac12c3
-MD5sum: b4f749fe7e8f08ca190e7f60bb87ded3
-Description: SwaySwitch is a simple window switcher for Sway
-
-Package: wireguide
-Version: 0.2.1
-Architecture: all
-Essential: no
-Maintainer: Micke Nordin <mik@elnord.in>
-Installed-Size: 47
-Depends: gir1.2-nm-1.0, libnm0, network-manager, python3-wxgtk4.0, wireguard
-Recommends: resolvconf
-Homepage: https://github.com/mickenordin/wireguide
-Priority: optional
-Section: net
-Filename: pool/main/w/wireguide/wireguide_0.2.1_all.deb
-Size: 21224
-SHA256: 1cb81e579f7e2717c5b8901dbc392377cabbdebdeb36d158081b7796a93cbfac
-SHA1: 99d70c0125768481faccbb31cfb9f5433a3613f9
-MD5sum: 5f0a867b3de5dcf917037492cc4275d1
-Description: WireGUIde is a graphical user interface for WireGuard
 

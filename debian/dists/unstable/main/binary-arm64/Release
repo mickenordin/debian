@@ -1,0 +1,5 @@
+Component: main
+Origin: repo.mic.ke
+Label: repo.mic.ke
+Architecture: arm64
+Description: Micke's debian packages
