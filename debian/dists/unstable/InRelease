@@ -4,51 +4,51 @@ Hash: SHA512
 Origin: repo.mic.ke
 Label: repo.mic.ke
 Codename: unstable
-Date: Tue, 24 May 2022 13:49:13 UTC
+Date: Tue, 24 May 2022 15:04:10 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Micke's debian packages
 MD5Sum:
- 92658634a96176a86e566426315c5577 3923 main/binary-amd64/Packages
- a7152936384d80ac5cbad4413869af01 1720 main/binary-amd64/Packages.gz
+ 4458e4f57458a0eafe7123501e1ab25c 3955 main/binary-amd64/Packages
+ ebc7c582a5fe8495aa154874616558b9 1734 main/binary-amd64/Packages.gz
  a85b8d0c8a36f09fb8775dd3bf47d63e 112 main/binary-amd64/Release
- d3bfa4e0ced0e0a20e6553f398120075 2213 main/binary-arm64/Packages
- 10afb2a95138cbd99370e5505b764dbf 1070 main/binary-arm64/Packages.gz
+ c28179fba1da91c560872ed682c0a03b 2245 main/binary-arm64/Packages
+ f3a648dc9576a6f67448440c9b9d72f8 1085 main/binary-arm64/Packages.gz
  49250c03af24a7c3ed0190d2679a6a48 112 main/binary-arm64/Release
  7948e69ad7c08dc3e176e5f30ba89b31 4705 main/source/Sources
  6fc79b210d5892434a36f2e9da8f1a16 1774 main/source/Sources.gz
  de05b53ae67c91eef17623c9e04b76be 113 main/source/Release
 SHA1:
- 0b886f77c29d8233524a912f636a281f17a6b608 3923 main/binary-amd64/Packages
- 24b8f573a505cf6110bdd3518c9d72593b83a367 1720 main/binary-amd64/Packages.gz
+ 637ee50aea065263ca071542a23d4e30b1d95d58 3955 main/binary-amd64/Packages
+ 6b8990fa5f8e4b19b5602de8f3d02bba92722036 1734 main/binary-amd64/Packages.gz
  2629b3574e7ed7899be765da556aa339d130e0b4 112 main/binary-amd64/Release
- 95679aaa8903b14801ba408d927f1355651d43a6 2213 main/binary-arm64/Packages
- 4a78102243c35350d2cc16943588c51e458f92b5 1070 main/binary-arm64/Packages.gz
+ 55e3787d79334afea4ccca1d6c1da983f08ee2b5 2245 main/binary-arm64/Packages
+ 458e2af2984eb6cbd50018d8dc7ebd61d6f07d47 1085 main/binary-arm64/Packages.gz
  a411433c20527a9bc3ebf126c388c26f437afff7 112 main/binary-arm64/Release
  9aee1ef0248488ae9a5d76ee7400a0763d5e3b29 4705 main/source/Sources
  8f2b88c2d006d25c74ced72dd79c6d65e4a12610 1774 main/source/Sources.gz
  cfd331f92a8ea3540545ea472892a09d3b9ca1fa 113 main/source/Release
 SHA256:
- bb80c2b30a0bde56d7c1c962100438ab17290a9d26e29a698198f8347688c0e0 3923 main/binary-amd64/Packages
- 213dbe06a701e026a7c8c816ad509ce8b07e371c81eb2a36b5f15c20420850db 1720 main/binary-amd64/Packages.gz
+ dcda2d8897ecbf0e7a6649506969cb72c6d59b10311fe4c51f292222f431c370 3955 main/binary-amd64/Packages
+ d948b83c5e831f96e73797411d32e473bb14aae7bca3df2fada0d4b240874584 1734 main/binary-amd64/Packages.gz
  b52ccc2677577933ce835cafba174b448b06d97756e844a5bfdf3788dac67a1c 112 main/binary-amd64/Release
- 0ab54c053f848124ad8baa1c86f07c3727b4ba252c7c6b27facf92e00f2ba7b9 2213 main/binary-arm64/Packages
- 97f8dbf7e3a4dea0f69de9dc0e3d39b668bdf4d3eff60c6f5f80b123f6f71bc4 1070 main/binary-arm64/Packages.gz
+ 13703c3850e95f26bfe03975f4ada4ee2b409713c35f8e968a9746a17ea24120 2245 main/binary-arm64/Packages
+ 7238fa364e4c0f41000d7912d3436867637ecd283d88bd587fc604762d2cc624 1085 main/binary-arm64/Packages.gz
  5a0e068036b1da56bef7a70fbd303a607ca1fb812900d1b85671b5a0c11a91cd 112 main/binary-arm64/Release
  f94392a6dcf25e325d0854a626ae5c80da79a8b5ad5b1d40ae9a60b68a539220 4705 main/source/Sources
  44225777ae948587d0aa5070ff66070b258f9448f21f853d262e91e023861661 1774 main/source/Sources.gz
  4d5419425c250d2ac738eab0b35148fab09fceea6f148ac9847f9974d45902ea 113 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEydotQ6fu5QGnGlWXAUsnPWFL6HcFAmKM4lkACgkQAUsnPWFL
-6HedWgwAquuzTQoIuEImcHxb0gt2mTisXnjvb8yJhUDGS5Q6Kmp+btK2tOomzJ6o
-JDO19sd3fyiw8AEwMw2eyomLE8b3uzWk3ZgShkl9QJDEblzLW7HkEWK+Jp77/Ffh
-pKS5jeg9yoavTHWVyNKFh+C7KKdczwbxmTCWksdwc/TeHxYbxH+LR0vKVt58jSOQ
-JdWkMmQbQefU2vufrnxYuO8luZBQCGmPJ2bspiCYDCtIgVhnwMzRRjm4lu0pqigs
-+QTsGBu0lbNkQ/aTfgSQ8eejDTdJTjEi2YNWV505/KNXD0inL3ugecvrcyiaZPXo
-fEI3AoOTq+9/P2hw1mY9SffPjBez92cLRWcX8axkMKX3hScZVB3AfFQA8vWsfCCl
-X2gwXJKClQNgvnz1uIEgaK1DDLGD7EPcXuCxSq+LmSEGRzM3lFBtWxqIa0uteGRy
-C8zLmKNpTs43j5QrwgoWomY8Rb4artLMnKTqEpN9zfXkV0ZXyruRWGpEspqqNh4h
-Di+DDutO
-=qWbT
+iQGzBAEBCgAdFiEEydotQ6fu5QGnGlWXAUsnPWFL6HcFAmKM8+sACgkQAUsnPWFL
+6Hc9EgwApkdK07n6lyp0VyU/5m0bmbUoipsNy19AjOhAXqPYgfl+mMcAeiAZFEKI
+RarNjHBgzDdbg+V7ZfL4fEp3AJHqIXx6/VJ7VfuNnYdbgdfk4n2zoc3WkNJeVPGT
+eLZ93jFqJeZbHDpIOklpNOw0qlXHOgYOsSlTK2ZWNKoCD3BA2giR7SyZAFfvU2nm
+xBDYZxftb8YPMq9LVlaRlUCyoyFgTXlRmMPEXjVY7+aho9zN3gvtlOVPC5u0L9Y8
+GE3bhrWO2j79j7vkwkKVvX7gI/+DJEusQaHMon8dzvpF8Xz+hWkkoDZJ4BKJH5Cm
+yAIvxS6aKDFUY/rqa+hMKJvGeWPgfBR6+XDayF2e8WApfuCae7X0ynPxYiS0hjyt
+UEKM7nE7whXiUhDeMhkhDvPVhXDlgdvsGUrNcDhMrvP3W1PRZMBImKeEXFajullk
+oIKicnIHbndReaQWHISBcmWHq/enJAE4Ls3X4OjLcXTlZfc1U/YMw2nUKqs9KFrZ
+9sa+XyQH
+=KSIX
 -----END PGP SIGNATURE-----

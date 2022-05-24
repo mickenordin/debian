@@ -1,18 +1,18 @@
 Package: python3-tinge
 Source: tinge
-Version: 0.0.3-1
+Version: 0.0.3-2
 Architecture: all
 Maintainer: Micke Nordin <hej@mic.ke>
 Installed-Size: 105
-Depends: python3:any, python3-upnpy, python3-wxgtk4.0
+Depends: python3:any, python3-upnpy, python3-wxgtk4.0, python3-toml, python3-requests
 Homepage: https://code.smolnet.org/micke/tinge
 Priority: optional
 Section: python
-Filename: pool/main/t/tinge/python3-tinge_0.0.3-1_all.deb
+Filename: pool/main/t/tinge/python3-tinge_0.0.3-2_all.deb
 Size: 15892
-SHA256: 8bcf4e1f91cf3989e909149094b927f81459ac64e2bd2f6ca7f248c1688ad72b
-SHA1: 2c6d09bfd1231ccc323f09c9eb47f2323bebba33
-MD5sum: 32eb3c066cd5abb5c0fa35eb0fc28c28
+SHA256: f700969f457f8ad7956fe67f2c066301aad2d5dbe532622337877cb53e949e5e
+SHA1: a34f047fed45229d97fccef58c8085183f7df903
+MD5sum: c51ccc1d0e0545581ec24de38559c3d3
 Description: A GUI for Philips Hue lights.
  # tinge
  .
