@@ -36,6 +36,8 @@
     <p> Install like this:
     <pre>
     wget -O - https://repo.mic.ke/PUBLIC.KEY | sudo gpg --output /usr/share/keyrings/micke-archive-unstable.gpg --dearmor
+    echo "deb [signed-by=/usr/share/keyrings/micke-archive-unstable.gpg] https://repo.mic.ke/debian/ unstable main
+deb-src [signed-by=/usr/share/keyrings/micke-archive-unstable.gpg] https://repo.mic.ke/debian/ unstable main" | sudo tee /etc/apt/sources.list.d/debian-micke-unstable.list
     sudo apt update
     </pre>
     </p>
