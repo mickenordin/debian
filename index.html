@@ -1,7 +1,7 @@
 <!--
    index.html
    
-   Copyright 2020 Micke Nordin <hej@mic.ke>
+   Copyright 2022 Micke Nordin <hej@mic.ke>
    
    This program is free software; you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
@@ -33,6 +33,14 @@
 <body>
     <h1>Repo</h1>
     <p>Package repository for <a href="https://github.com/mickenordin">Micke Nordin</a></p>
+    <p> Install like this:
+    <pre>
+    wget -O - https://repo.mic.ke/PUBLIC.KEY | sudo gpg --output /usr/share/keyrings/micke-archive-unstable.gpg --dearmor
+    echo "deb [signed-by=/usr/share/keyrings/micke-archive-unstable.gpg] https://repo.mic.ke/debian/ unstable main
+deb-src [signed-by=/usr/share/keyrings/micke-archive-unstable.gpg] https://repo.mic.ke/debian/ unstable main" | sudo tee /etc/apt/sources.list.d/debian-micke-unstable.list
+    sudo apt update
+    </pre>
+    </p>
 </body>
 
 </html>
