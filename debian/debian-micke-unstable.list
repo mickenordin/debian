@@ -1,2 +1,2 @@
-deb https://repo.mic.ke/debian/ unstable main
-deb-src https://repo.mic.ke/debian/ unstable main
+deb [signed-by=/usr/share/keyrings/micke-archive-unstable.gpg] https://repo.mic.ke/debian/ unstable main
+deb-src [signed-by=/usr/share/keyrings/micke-archive-unstable.gpg] https://repo.mic.ke/debian/ unstable main
