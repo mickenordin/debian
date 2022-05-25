@@ -1,36 +1,36 @@
 Origin: repo.mic.ke
 Label: repo.mic.ke
 Codename: unstable
-Date: Tue, 24 May 2022 15:04:10 UTC
+Date: Wed, 25 May 2022 15:46:22 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Micke's debian packages
 MD5Sum:
- 4458e4f57458a0eafe7123501e1ab25c 3955 main/binary-amd64/Packages
- ebc7c582a5fe8495aa154874616558b9 1734 main/binary-amd64/Packages.gz
+ 9913a4f3b6652970920dfa39d211ee0a 4568 main/binary-amd64/Packages
+ 7fe038b4c613b92bfe9e78df23a79b78 1987 main/binary-amd64/Packages.gz
  a85b8d0c8a36f09fb8775dd3bf47d63e 112 main/binary-amd64/Release
- c28179fba1da91c560872ed682c0a03b 2245 main/binary-arm64/Packages
- f3a648dc9576a6f67448440c9b9d72f8 1085 main/binary-arm64/Packages.gz
+ 01a8e9aaa2f6c057442ae422c1cbd975 2858 main/binary-arm64/Packages
+ be3afe5c5db6b6d5b99bd7b81499836c 1353 main/binary-arm64/Packages.gz
  49250c03af24a7c3ed0190d2679a6a48 112 main/binary-arm64/Release
  7948e69ad7c08dc3e176e5f30ba89b31 4705 main/source/Sources
  6fc79b210d5892434a36f2e9da8f1a16 1774 main/source/Sources.gz
  de05b53ae67c91eef17623c9e04b76be 113 main/source/Release
 SHA1:
- 637ee50aea065263ca071542a23d4e30b1d95d58 3955 main/binary-amd64/Packages
- 6b8990fa5f8e4b19b5602de8f3d02bba92722036 1734 main/binary-amd64/Packages.gz
+ 606491210460024d706f2b03271946e0d6a98321 4568 main/binary-amd64/Packages
+ aa34ec66efa78ff56c82c502fb32a93e8dcc6c5d 1987 main/binary-amd64/Packages.gz
  2629b3574e7ed7899be765da556aa339d130e0b4 112 main/binary-amd64/Release
- 55e3787d79334afea4ccca1d6c1da983f08ee2b5 2245 main/binary-arm64/Packages
- 458e2af2984eb6cbd50018d8dc7ebd61d6f07d47 1085 main/binary-arm64/Packages.gz
+ 25c60245a6b2a95bde3eaac7ea9efb124108da9d 2858 main/binary-arm64/Packages
+ 83fad49c26ade5c848a087978c82668006024452 1353 main/binary-arm64/Packages.gz
  a411433c20527a9bc3ebf126c388c26f437afff7 112 main/binary-arm64/Release
  9aee1ef0248488ae9a5d76ee7400a0763d5e3b29 4705 main/source/Sources
  8f2b88c2d006d25c74ced72dd79c6d65e4a12610 1774 main/source/Sources.gz
  cfd331f92a8ea3540545ea472892a09d3b9ca1fa 113 main/source/Release
 SHA256:
- dcda2d8897ecbf0e7a6649506969cb72c6d59b10311fe4c51f292222f431c370 3955 main/binary-amd64/Packages
- d948b83c5e831f96e73797411d32e473bb14aae7bca3df2fada0d4b240874584 1734 main/binary-amd64/Packages.gz
+ d421d1811433f49e0589852c2e57f192268fc96414a37ce0b5174d7dc9466b28 4568 main/binary-amd64/Packages
+ 502d0ff5cae5e4c7554af2a29e8d8276e5fb275f44bac8999bcefa6c11368e0b 1987 main/binary-amd64/Packages.gz
  b52ccc2677577933ce835cafba174b448b06d97756e844a5bfdf3788dac67a1c 112 main/binary-amd64/Release
- 13703c3850e95f26bfe03975f4ada4ee2b409713c35f8e968a9746a17ea24120 2245 main/binary-arm64/Packages
- 7238fa364e4c0f41000d7912d3436867637ecd283d88bd587fc604762d2cc624 1085 main/binary-arm64/Packages.gz
+ facab7488fba06b4f8885b090df745bd6e2c6175a568a4f0301d85174423cfa5 2858 main/binary-arm64/Packages
+ 7c199583d6cfad877633bfd521028d35744c2f5fb30bc8c161283d07de93e680 1353 main/binary-arm64/Packages.gz
  5a0e068036b1da56bef7a70fbd303a607ca1fb812900d1b85671b5a0c11a91cd 112 main/binary-arm64/Release
  f94392a6dcf25e325d0854a626ae5c80da79a8b5ad5b1d40ae9a60b68a539220 4705 main/source/Sources
  44225777ae948587d0aa5070ff66070b258f9448f21f853d262e91e023861661 1774 main/source/Sources.gz

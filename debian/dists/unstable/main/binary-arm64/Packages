@@ -72,3 +72,22 @@ Description: Lightweight UPnP client library for Python.
  .
  upnp = upnpy.UPnP()
 
+Package: tubefeeder
+Version: 1.6.6-1
+Priority: optional
+Section: video
+Filename: pool/main/t/tubefeeder/tubefeeder_1.6.6-1_arm64.deb
+Size: 7716830
+SHA256: 9627cdd354e407594a712393bc3c49791cab6b9405c09880f6f58852a54cd9a9
+SHA1: b733ad1797b810e153428d627ea1bfbc1287218e
+MD5sum: 5a836b17f1ea1d2779d3bd7f971ba9e0
+Description: A Youtube, Lbry and Peertube client made for the Pinephone
+Architecture: arm64
+License: GPL
+Maintainer: Micke Nordin <hej@mic.ke>
+Homepage: https://www.tubefeeder.de
+Depends: libadwaita-1-0, libadwaita-1-dev, libssl-dev
+Recommends: mpv, youtube-dl
+Conflicts: tubefeeder
+Provides: tubefeeder
+

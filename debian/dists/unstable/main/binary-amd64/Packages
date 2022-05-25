@@ -107,6 +107,25 @@ SHA1: 6eb9f02140d768752646ad12dc043f474fac12c3
 MD5sum: b4f749fe7e8f08ca190e7f60bb87ded3
 Description: SwaySwitch is a simple window switcher for Sway
 
+Package: tubefeeder
+Version: 1.6.6-1
+Priority: optional
+Section: video
+Filename: pool/main/t/tubefeeder/tubefeeder_1.6.6-1_amd64.deb
+Size: 7978508
+SHA256: 94217254f10e139ed3cb1efce8a9cc7c113983bb1b012ae51d016da7e514cc8b
+SHA1: ac8f6ec0e2b5e5d95ac2a4781b6400ce20aa9b7c
+MD5sum: 3489bed94f6654fbb66f0b5886d70128
+Description: A Youtube, Lbry and Peertube client made for the Pinephone
+Architecture: amd64
+License: GPL
+Maintainer: Micke Nordin <hej@mic.ke>
+Homepage: https://www.tubefeeder.de
+Depends: libadwaita-1-0, libadwaita-1-dev, libssl-dev
+Recommends: mpv, youtube-dl
+Conflicts: tubefeeder
+Provides: tubefeeder
+
 Package: wireguide
 Version: 0.2.1
 Architecture: all
