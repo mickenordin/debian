@@ -1,37 +1,37 @@
 Origin: repo.mic.ke
 Label: repo.mic.ke
 Codename: unstable
-Date: Wed, 25 May 2022 15:46:22 UTC
+Date: Fri, 27 May 2022 15:15:57 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Micke's debian packages
 MD5Sum:
- 9913a4f3b6652970920dfa39d211ee0a 4568 main/binary-amd64/Packages
- 7fe038b4c613b92bfe9e78df23a79b78 1987 main/binary-amd64/Packages.gz
+ 3b90213cab2a7f188056af47606e5f4a 5373 main/binary-amd64/Packages
+ ced69af6ab6836d6aae7ae90899fb83e 2282 main/binary-amd64/Packages.gz
  a85b8d0c8a36f09fb8775dd3bf47d63e 112 main/binary-amd64/Release
- 01a8e9aaa2f6c057442ae422c1cbd975 2858 main/binary-arm64/Packages
- be3afe5c5db6b6d5b99bd7b81499836c 1353 main/binary-arm64/Packages.gz
+ aa66bae0778cfe91d1090a2a75f870ff 3663 main/binary-arm64/Packages
+ 8c469132e0605fd3397b521172895008 1658 main/binary-arm64/Packages.gz
  49250c03af24a7c3ed0190d2679a6a48 112 main/binary-arm64/Release
- 7948e69ad7c08dc3e176e5f30ba89b31 4705 main/source/Sources
- 6fc79b210d5892434a36f2e9da8f1a16 1774 main/source/Sources.gz
+ 6fb0b47795b1469f03a3a888f8327af2 5814 main/source/Sources
+ 3b18c991c76fdf0e556b66cc349c4081 2105 main/source/Sources.gz
  de05b53ae67c91eef17623c9e04b76be 113 main/source/Release
 SHA1:
- 606491210460024d706f2b03271946e0d6a98321 4568 main/binary-amd64/Packages
- aa34ec66efa78ff56c82c502fb32a93e8dcc6c5d 1987 main/binary-amd64/Packages.gz
+ dfb15d21e0a8a71633a1437d1d053da2c8b91e49 5373 main/binary-amd64/Packages
+ 73bdd4bab686ddfa3568e3019a8b68c8cc25a85f 2282 main/binary-amd64/Packages.gz
  2629b3574e7ed7899be765da556aa339d130e0b4 112 main/binary-amd64/Release
- 25c60245a6b2a95bde3eaac7ea9efb124108da9d 2858 main/binary-arm64/Packages
- 83fad49c26ade5c848a087978c82668006024452 1353 main/binary-arm64/Packages.gz
+ 87c6278bfd1f003f985d10804967625790087def 3663 main/binary-arm64/Packages
+ 0fb050e25c72907fc265b1ba8939a172e039a944 1658 main/binary-arm64/Packages.gz
  a411433c20527a9bc3ebf126c388c26f437afff7 112 main/binary-arm64/Release
- 9aee1ef0248488ae9a5d76ee7400a0763d5e3b29 4705 main/source/Sources
- 8f2b88c2d006d25c74ced72dd79c6d65e4a12610 1774 main/source/Sources.gz
+ 433bce2e3fea25ac74217f1814233c7e3e3b6cfa 5814 main/source/Sources
+ 4838bd9f3b213c9532719f1d1585e231d49d3073 2105 main/source/Sources.gz
  cfd331f92a8ea3540545ea472892a09d3b9ca1fa 113 main/source/Release
 SHA256:
- d421d1811433f49e0589852c2e57f192268fc96414a37ce0b5174d7dc9466b28 4568 main/binary-amd64/Packages
- 502d0ff5cae5e4c7554af2a29e8d8276e5fb275f44bac8999bcefa6c11368e0b 1987 main/binary-amd64/Packages.gz
+ 7f40eb183dcf6e576e454308a23cb5a4a6b5b74c2b4736a5c9a66adf1c0481b7 5373 main/binary-amd64/Packages
+ bb984f54cd24189ea0f606f4acdc2c022da246d3000f21b9362a44aa31937851 2282 main/binary-amd64/Packages.gz
  b52ccc2677577933ce835cafba174b448b06d97756e844a5bfdf3788dac67a1c 112 main/binary-amd64/Release
- facab7488fba06b4f8885b090df745bd6e2c6175a568a4f0301d85174423cfa5 2858 main/binary-arm64/Packages
- 7c199583d6cfad877633bfd521028d35744c2f5fb30bc8c161283d07de93e680 1353 main/binary-arm64/Packages.gz
+ c93663cf8888d72242e264cdc30ea2e90f9ea17178c7e1feceee134a0685a163 3663 main/binary-arm64/Packages
+ 90cc35d236fb9dbc96d7b61d82d8df93ca203b88c5240eb0455ffa2d96a125bb 1658 main/binary-arm64/Packages.gz
  5a0e068036b1da56bef7a70fbd303a607ca1fb812900d1b85671b5a0c11a91cd 112 main/binary-arm64/Release
- f94392a6dcf25e325d0854a626ae5c80da79a8b5ad5b1d40ae9a60b68a539220 4705 main/source/Sources
- 44225777ae948587d0aa5070ff66070b258f9448f21f853d262e91e023861661 1774 main/source/Sources.gz
+ 520a5c9d220f8dd8e1ce8b910dee32431d6782484cbdb3830c615e74bb6e6682 5814 main/source/Sources
+ 4212343457ab9ff68fba30558f7d5040a42018628857faf8c0a9c525b82bf713 2105 main/source/Sources.gz
  4d5419425c250d2ac738eab0b35148fab09fceea6f148ac9847f9974d45902ea 113 main/source/Release

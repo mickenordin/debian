@@ -1,3 +1,25 @@
+Package: python3-cast
+Source: cast
+Version: 0.0.1-1
+Architecture: all
+Maintainer: Micke Nordin <hej@mic.ke>
+Installed-Size: 59
+Depends: python3:any, python3-bs4, python3-wxgtk4.0, python3-feedparser, python3-vlc, python3-pychromecast
+Homepage: https://code.smolnet.org/micke/cast
+Priority: optional
+Section: python
+Filename: pool/main/c/cast/python3-cast_0.0.1-1_all.deb
+Size: 9484
+SHA256: d72a56a79180de9254b2fd4d5e16d1915649d5e4d3bdae240efe0b73b2dfb4ad
+SHA1: 26d9665a22064635f7b8b6e834831788553e69fd
+MD5sum: b565e73b3e085774d9f106f18eaf8bd1
+Description: A Public Service video player.
+ # cast
+ .
+ This program is intended for use on linux phones, and allow watching video streams, either directly on the phone via gstreamer or through chrome cast.
+ .
+ Currently Swedish Public Service TV is supported.
+
 Package: python3-tinge
 Source: tinge
 Version: 0.0.3-2
