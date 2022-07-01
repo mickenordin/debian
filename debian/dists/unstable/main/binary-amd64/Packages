@@ -16,6 +16,42 @@ MD5sum: cc915c824d1f518bf04b7e4fadab10e1
 Description: gMNd is a gemini server with support for serving static files,
      or run cgi-scripts.
 
+Package: passui
+Version: 0.0.1-1
+Architecture: all
+Maintainer: Micke Nordin <hej@mic.ke>
+Installed-Size: 48
+Depends: python3:any, python3-wxgtk4.0, python3-typing-extensions, python3-typing-inspect, python3-gnupg, git, gnupg, pass, pinentry-gtk2, wl-clipboard | xclip
+Homepage: https://code.smolnet.org/micke/passui
+Priority: optional
+Section: python
+Filename: pool/main/p/passui/passui_0.0.1-1_all.deb
+Size: 9940
+SHA256: 19b2b07bd1ef05f9c8d14944b9357ae6f65c3aa6ccbbd7969914224559c06fa1
+SHA1: 583ed20be52c3817f473df93e5a443067e641a7e
+MD5sum: f4e1525290daf368bf930b925ca63638
+Description: A GUI for the standad Unix password manager.
+ # PassUi
+ PassUi is a free and open source graphical user interface for [the standard unix password manager](https://www.passwordstore.org/) written in python, with small screens in mind.
+ .
+ PassUi is **alpha quality software**, although it has been tested and has not been known to destroy passwords, you are fully responsible for your own password. Make sure to back them up, whether you use this software or not.
+ .
+ THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+ .
+ IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+ .
+ With that said, if you do decide to use it, feed back is much appreciated. Please send me a message on mastodon [@micke@koyu.space](https://koyu.space/web/accounts/125968) if you use it with success, and open an [issue on smolnet.org](https://code.smolnet.org/micke/passui/issues/new/) if you have problems.
+ .
+ ## Installation
+ If you are running {Deb,Mo}bian you can install using the [prebuilt .deb file](https://code.smolnet.org/attachments/d3112068-cac5-4e22-890a-0765c8e170dd).
+ .
+ You can also build a deb yourself using python3-stdeb:
+ ```
+ python3 setup.py --command-packages=stdeb.command bdist_deb
+ ```
+ Otherwise you can clone this repository and run the crude installer:
+ ```
+
 Package: python3-cast
 Source: cast
 Version: 0.0.1-2
