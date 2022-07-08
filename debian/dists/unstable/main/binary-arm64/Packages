@@ -1,3 +1,32 @@
+Package: cast
+Version: 0.1.0-1
+Architecture: all
+Maintainer: Micke Nordin <hej@mic.ke>
+Installed-Size: 133
+Depends: python3:any, python3-bs4, python3-wxgtk4.0, python3-wxgtk-media4.0, python3-feedparser, python3-vlc, python3-pychromecast
+Homepage: https://code.smolnet.org/micke/cast
+Priority: optional
+Section: python
+Filename: pool/main/c/cast/cast_0.1.0-1_all.deb
+Size: 52620
+SHA256: 3dbdf10cc26d2b42a0f98edfab0b825fd78998144b0ccb791b3ba095e697756d
+SHA1: 505c865232cf8e3f9afe0232a5d23e3f32b363c5
+MD5sum: 92f325261604adc0f73a677ab9edb3d0
+Description: A Public Service video player.
+ # cast
+ .
+ This program is intended for use on linux phones, and allow watching video streams, either directly on the phone via vlc or through chromecast.
+ .
+ Currently Swedish Public Service TV is supported.
+ .
+ Install like this:
+ .
+ ```
+ wget -O - https://repo.mic.ke/PUBLIC.KEY | gpg --dearmor --output micke-archive-unstable.gpg && sudo mv micke-archive-unstable.gpg /usr/share/keyrings
+ sudo wget -O /etc/apt/sources.list.d/debian-micke-unstable.list   https://repo.mic.ke/debian/debian-micke-unstable.list
+ sudo apt update && sudo apt install python3-cast
+ ```
+
 Package: passui
 Version: 0.0.1-1
 Architecture: all
@@ -32,36 +61,6 @@ Description: A GUI for the standad Unix password manager.
  python3 setup.py --command-packages=stdeb.command bdist_deb
  ```
  Otherwise you can clone this repository and run the crude installer:
- ```
-
-Package: python3-cast
-Source: cast
-Version: 0.0.1-2
-Architecture: all
-Maintainer: Micke Nordin <hej@mic.ke>
-Installed-Size: 123
-Depends: python3:any, python3-bs4, python3-wxgtk4.0, python3-wxgtk-media4.0, python3-feedparser, python3-vlc, python3-pychromecast
-Homepage: https://code.smolnet.org/micke/cast
-Priority: optional
-Section: python
-Filename: pool/main/c/cast/python3-cast_0.0.1-2_all.deb
-Size: 51144
-SHA256: 56881c2a93361d09df1389fd17664622910dd411425cb85dad0eea84089b4783
-SHA1: d2c27be841d05cb19ede0a629985640c2e9db88a
-MD5sum: 085783907bf0462b57711b630f99352d
-Description: A Public Service video player.
- # cast
- .
- This program is intended for use on linux phones, and allow watching video streams, either directly on the phone via vlc or through chromecast.
- .
- Currently Swedish Public Service TV is supported.
- .
- Install like this:
- .
- ```
- wget -O - https://repo.mic.ke/PUBLIC.KEY | gpg --dearmor --output micke-archive-unstable.gpg && sudo mv micke-archive-unstable.gpg /usr/share/keyrings
- sudo wget -O /etc/apt/sources.list.d/debian-micke-unstable.list   https://repo.mic.ke/debian/debian-micke-unstable.list
- sudo apt update && sudo apt install python3-cast
  ```
 
 Package: python3-tinge
