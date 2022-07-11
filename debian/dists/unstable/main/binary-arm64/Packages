@@ -1,17 +1,17 @@
 Package: cast
-Version: 0.1.0-1
+Version: 0.1.1-1
 Architecture: all
 Maintainer: Micke Nordin <hej@mic.ke>
-Installed-Size: 133
+Installed-Size: 134
 Depends: python3:any, python3-bs4, python3-wxgtk4.0, python3-wxgtk-media4.0, python3-feedparser, python3-vlc, python3-pychromecast
 Homepage: https://code.smolnet.org/micke/cast
 Priority: optional
 Section: python
-Filename: pool/main/c/cast/cast_0.1.0-1_all.deb
-Size: 52620
-SHA256: 3dbdf10cc26d2b42a0f98edfab0b825fd78998144b0ccb791b3ba095e697756d
-SHA1: 505c865232cf8e3f9afe0232a5d23e3f32b363c5
-MD5sum: 92f325261604adc0f73a677ab9edb3d0
+Filename: pool/main/c/cast/cast_0.1.1-1_all.deb
+Size: 52824
+SHA256: 1f6ef04e93c41ff2362086bf32bd88f60f0040297f52d6cee1cb454af3bda8c6
+SHA1: cb885233d76d78c92eab63fb849c3e6f433cbbfc
+MD5sum: cc0b0e2773ce84263b6ba4e53db937d8
 Description: A Public Service video player.
  # cast
  .
@@ -24,7 +24,7 @@ Description: A Public Service video player.
  ```
  wget -O - https://repo.mic.ke/PUBLIC.KEY | gpg --dearmor --output micke-archive-unstable.gpg && sudo mv micke-archive-unstable.gpg /usr/share/keyrings
  sudo wget -O /etc/apt/sources.list.d/debian-micke-unstable.list   https://repo.mic.ke/debian/debian-micke-unstable.list
- sudo apt update && sudo apt install python3-cast
+ sudo apt update && sudo apt install cast
  ```
 
 Package: passui
